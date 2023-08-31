@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;700;800;900&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container-1 {
+  padding: 112px 135px 68px 135px;
+  background: #fdf0e9;
+}
+
+.container-1 .box{
+
+}
+
+.container-1 .box button{
+    
+   
+    height: 48px;
+    width: 170px;
+    border-radius: 6px;
+background: #FFF;
+box-shadow: 0px 3px 9px 0px rgba(57, 20, 0, 0.08);
+}
+
+.container-1 .box button a{
+  
+    text-decoration: none;
+    color: #391400;
+text-align: center;
+font-family: Epilogue;
+font-size: 14px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: uppercase;
+}
+
+.container-1 h1 {
+    
+  color: var(--text-dark-accent, #ef6d58);
+  font-feature-settings: "clig" off, "liga" off;
+
+  font-family: Epilogue;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+
+.container-1 .box h2 {
+    margin-top: 20px;
+  width: 318px;
+  color: var(--text-dark, #391400);
+  font-feature-settings: "clig" off, "liga" off;
+
+  
+  font-family: Epilogue;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 64px;
+  letter-spacing: -1px;
+}
+
+.container-1 ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.container-1 ul img {
+margin-top: 64px;
+    margin-right: 30px;
+  width: 370px;
+  height: 224px;
+  border-radius: 6px;
+  background: #5c2000;
+}
+
+.container-1 ul h3 {
+    margin-top: 26px;
+  color: var(--text-dark, #391400);
+  font-feature-settings: "clig" off, "liga" off;
+
+  font-family: Epilogue;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px; 
+}
+
+.container-1 ul h4 {
+    margin-top: 15px;
+  width: 338px;
+  color: var(--text-dark, #391400);
+  font-feature-settings: "clig" off, "liga" off;
+ font-family: Epilogue;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 32px; /* 133.333% */
+}
+
+.container-1 ul h5{
+    margin-top: 15px;
+    color: var(--text-dark-gray, rgba(57, 20, 0, 0.64));
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Epilogue;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; 
+}
+
