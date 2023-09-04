@@ -65,18 +65,14 @@
 
 .container-1 ul {
   margin-top: 64px;
-  display: flex;
-  justify-content: space-between;
-  background-color: yellow;
-}
-.container-1 ul li {
   list-style-type: none;
-  width: 32%;
+  display: flex;
 }
+
 .container-1 ul img {
 
   margin-right: 30px;
-  width: 100%;
+  width: 370px;
   height: 224px;
   border-radius: 6px;
   background: #5c2000;
@@ -103,7 +99,7 @@
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
-  line-height: 32px; 
+  line-height: 32px; /* 133.333% */
 }
 
 .container-1 ul h5 {
